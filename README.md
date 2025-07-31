@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on LLMs
 - 📫 How to reach me Mobile in Australia: +61413591621 or via Email: tarek.beshr@gmail.com
-- 😄 Pronouns: Sir
+- 😄 Pronouns: MR
 - ⚡ Fun fact: I'm 42 but i behave like a child. haha
 
 <!---
